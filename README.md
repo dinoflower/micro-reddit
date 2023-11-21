@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A backend-only microblog app with basic User, Post, and Comment models. Built as part of The Odin Project.
 
-Things you may want to cover:
+Designed to demonstrate knowledge of Active Record, data modeling, and model associations.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ruby version 3.1.2. Rails version 7.1.1. SqLite3 version 3.37.2.
